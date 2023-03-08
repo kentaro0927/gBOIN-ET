@@ -1,0 +1,1 @@
+The latest code for the BOIN-ET design, the TITE-BOIN-ET design, the gBOIN-ET design, and the TITE-gBOIN-ET design are available at https://github.com/yamagubed/TITE-gBOIN-ET.
